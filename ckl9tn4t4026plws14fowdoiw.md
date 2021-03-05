@@ -2,9 +2,11 @@
 
 The hotshots at Google decided to enter the arena of cross-platform development after mobile frameworks such as [Ionic](https://ionicframework.com/), [React Native](https://reactnative.dev/), and [Xamarin](https://visualstudio.microsoft.com/xamarin/) turned out well. 
 
-From a business perspective, cross-platform apps offer the possibility to significantly reduce the development time and cost. They also put an end to the hiring of different software development teams for managing codebases for different platforms. This impacts both, the company's bottom line and time-to-market for their product.
+From a business perspective, cross-platform apps offer the possibility to significantly reduce the development time and cost. You may think that you need to hire different software development teams to develop your app for different platforms using native solutions. But with cross-platform frameworks, you can create only one code that runs on all, and you wouldn’t have to worry about making different codebases. 
 
-Hence came a framework that supports app development on both, [Android](https://www.android.com/) and [iOS](https://developer.apple.com/ios/), using a single codebase.
+Not only does this mean that you save time, but also cut your costs in half (at the least).  This impacts both, the company's bottom line and time-to-market for their product.
+
+Hence came a framework that supports app development on both, [Android](https://www.android.com/) and [iOS](https://developer.apple.com/ios/), Web Browsers, etc. using a single codebase.
 
 # Introduction
 > [Flutter](https://flutter.dev) is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. 
@@ -12,6 +14,17 @@ Hence came a framework that supports app development on both, [Android](https://
 It is an open-source SDK, primarily developed and sponsored by Google. It uses [Dart](https://dart.dev/) as a programming language, ensuring a single codebase for your project. Dart is a modern, [object-oriented programming](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/) language, created by Google and has been around since 2011. 
 
 Officially introduced by Google in Feb 2018 as a freely available open-source UI toolkit, Flutter has been growing since, attracting a developers’ community and companies interested in the rapid development of their apps.
+
+# Design Systems Suited for Different Environments
+The same codebase doesn't really mean that you lose any choice of personalization. This is possible because Flutter has a method that recognizes which operating system it is running on and with some conditions you can choose what you want to display. 
+
+There are two different design systems available in Flutter: 
+1. Cupertino, and 
+2. Material Design. 
+
+![Artboard – 1.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1614970507751/FhIP1i78-.png)
+ 
+Cupertino is made for iOS style, while Material is Google's design philosophy for android apps and beyond.
 
 # How Flutter works?
 ### Widgets
@@ -52,7 +65,7 @@ The Flutter portion of the app sends messages to its host, the iOS or Android po
 - ### Hot Reload
 If you ask any of Flutter app developers what their favorite part of Flutter is, they'll say it's **Hot Reload**. 
 ![image.png](https://hackernoon.com/hn-images/1*c1dM9uhkRj9_fpiDrLJmDw.gif)
-During development, Flutter uses a JIT compiler that can reload and continue executing code usually in under a second. It implements the change in your UI without reloading the whole app or messing with inputs and variables.
+The experience is like painting a picture. You can simultaneously modify your code and hit save, and almost instantly, like magic, it’s all updated on your screen. This is because Flutter doesn’t build the whole screen over again, it only updates what is different in your code. Flutter uses a JIT compiler that can reload and continue executing code usually in under a second. It implements the change in your UI without reloading the whole app or messing with inputs and variables.
 
 - ### Independence from Platform Updates
 Flutter apps are separated from all native components of OS. Even if Android or iOS updates its controls, the apps will retain their appearance and functionality.
@@ -101,11 +114,11 @@ For those who are fans of instructor-led courses, 2 excellent courses come recom
  1. Dr. Angela Yu's [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/). This one comes recommended by the Flutter team themselves.
  2. Maximilian Schwarzmüller's  -  [Flutter & Dart - The Complete Guide [2021 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/).
 
-- ### 30 Days of Flutter
-[*#30DaysOfFlutter*](https://twitter.com/hashtag/30DaysOfFlutter) is an initiative to help developers who have experience in building apps using different SDKs and technology, and aspiring app developers in learning more about building apps using Flutter. 
-This event spans the month of Feb 2021. Visit their [website](https://events.withgoogle.com/30-daysofflutter/) for more details.
-
 ---
+With Flutter, you can build almost anything. If you have a cool app idea, like a chat where people can only talk through GIFs, you can use Flutter. If you want to build the next big communication desktop app, like Skype, Flutter is a great option.
+
+With Flutter the possibilities are endless and you can start right now.
+
 #### I hope my article encouraged some of you to try out Flutter for building your apps. If you liked it, consider tweeting it to your network. 
 
 Ciao!
