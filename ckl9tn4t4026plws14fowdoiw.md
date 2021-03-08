@@ -15,6 +15,8 @@ It is an open-source SDK, primarily developed and sponsored by Google. It uses [
 
 Officially introduced by Google in Feb 2018 as a freely available open-source UI toolkit, Flutter has been growing since, attracting a developers’ community and companies interested in the rapid development of their apps.
 
+> As of March 3, 2021, Flutter supports development on Windows, Mac, Linux, Web, iOS, and Android operating systems.
+
 # Design Systems Suited for Different Environments
 The same codebase doesn't really mean that you lose any choice of personalization. This is possible because Flutter has a method that recognizes which operating system it is running on and with some conditions you can choose what you want to display. 
 
