@@ -6,7 +6,7 @@ From a business perspective, cross-platform apps offer the possibility to signif
 
 Not only does this mean that you save time, but also cut your costs in half (at the least).  This impacts both, the company's bottom line and time-to-market for their product.
 
-Hence came a framework that supports app development on both, [Android](https://www.android.com/) and [iOS](https://developer.apple.com/ios/), Web Browsers, etc. using a single codebase.
+Hence came a framework that supports app development on multiple platforms using a single codebase.
 
 # Introduction
 > [Flutter](https://flutter.dev) is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. 
