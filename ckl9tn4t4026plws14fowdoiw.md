@@ -117,11 +117,11 @@ For those who are fans of instructor-led courses, 2 excellent courses come recom
  1. Dr. Angela Yu's [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/). This one comes recommended by the Flutter team themselves.
  2. Maximilian Schwarzmüller's  -  [Flutter & Dart - The Complete Guide [2021 Edition]](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/).
 
----
-With Flutter, you can build almost anything. If you have a cool app idea, like a chat where people can only talk through GIFs, you can use Flutter. If you want to build the next big communication desktop app, like Skype, Flutter is a great option.
+# Conclusion
+If you haven’t, I encourage you to [try Flutter](https://flutter.dev/docs/get-started/install). As with any new technology, there’s some learning curve involved. Thankfully the developer experience is pleasant and the documentation is amazing. The [/r/FlutterDev subreddit](https://www.reddit.com/r/FlutterDev/) has plenty of helpful content coming every week.
 
-With Flutter the possibilities are endless and you can start right now.
+With Flutter, you can build almost anything. If you have a cool app idea, like a chat app where people can only talk through GIFs, you can use Flutter. If you want to build the next big communication desktop app, like Skype, Flutter is a great option.
 
-#### I hope my article encouraged some of you to try out Flutter for building your apps. If you liked it, consider tweeting it to your network. 
+The possibilities are endless and you can start right now.
 
 Ciao!
