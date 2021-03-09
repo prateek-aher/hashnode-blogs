@@ -9,7 +9,8 @@ Not only does this mean that you save time, but also cut your costs in half (at 
 Hence came a framework that supports app development on multiple platforms using a single codebase.
 
 # Introduction
-> [Flutter](https://flutter.dev) is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. 
+If you look at [Flutter's home page](https://flutter.dev/) you'll see this sales pitch:
+> Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for [mobile](https://flutter.dev/docs), [web](https://flutter.dev/web), and [desktop](https://flutter.dev/desktop) from a single codebase. 
 
 It is an open-source SDK, primarily developed and sponsored by Google. It uses [Dart](https://dart.dev/) as a programming language, ensuring a single codebase for your project. Dart is a modern, [object-oriented programming](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/) language, created by Google and has been around since 2011. 
 
